@@ -4,6 +4,7 @@
       output = "";
 
   function generateString(p) {
+    output = "";
     for(var i = 0, c = params.length; i < c; i++) {
       for(var prop in params[i]) {
         output += "&"+prop+"="+encodeURIComponent(params[i][prop]);
@@ -26,6 +27,7 @@
   }
 
   function gord(obj) {
+    params = [];
     if(obj instanceof Object) {
       process(obj);
     } else {
