@@ -6,4 +6,4 @@
 
 #### What is Gord?
 
-Awesome.
+Converts a complex Object to a usable query string (and eventually other formats). Non-useful properties are tossed out (properties that only contain another object for example). This leaves you with a string that can be used in an ajax request, saved to cookie or even localstorage.
