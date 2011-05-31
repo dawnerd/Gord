@@ -2,7 +2,7 @@
   "name": "Gord",
   "description": "An object conversion thingy.",
   "keywords": ["utility", "object", "data conversion"],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/dawnerd/Gord",
   "author": "Troy Whiteley <troy@somanyscientists.com> (@dawnerd)",
   "repository": {
@@ -16,5 +16,7 @@
   "directories": {
       "src": "./src",
       "tests": "./tests"
-  }
+  },
+  "main": "./src/gord.js",
+  
 }
