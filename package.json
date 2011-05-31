@@ -1,0 +1,20 @@
+{
+  "name": "Gord",
+  "description": "An object conversion thingy.",
+  "keywords": ["utility", "object", "data conversion"],
+  "version": "0.0.2",
+  "homepage": "https://github.com/dawnerd/Gord",
+  "author": "Troy Whiteley <troy@somanyscientists.com> (@dawnerd)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dawnerd/Gord.git"
+  },
+  "bugs": {
+    "mail": "troy@somanyscientists.com",
+    "web": "https://github.com/dawnerd/Gord/issues"
+  },
+  "directories": {
+      "src": "./src",
+      "tests": "./tests"
+  }
+}
