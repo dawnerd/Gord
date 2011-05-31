@@ -1,4 +1,4 @@
-!function(context) {
+;!function(context) {
 
   var params = [],
       output = "";
@@ -46,4 +46,4 @@
   (typeof module !== 'undefined') && module.exports ?
     (module.exports = gord) :
     (context.gord = gord);
-}(this)
+}(this);
