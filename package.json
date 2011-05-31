@@ -18,5 +18,5 @@
       "tests": "./tests"
   },
   "main": "./src/gord.js",
-  
+  "ender": "./src/ender.js"
 }
