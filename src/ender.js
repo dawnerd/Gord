@@ -1,3 +1,3 @@
 $.ender({
-  gord: gord
+  'gord': gord
 });
