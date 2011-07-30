@@ -13,4 +13,5 @@ Converts a complex Object to a usable query string (and eventually other formats
 Please don't use this in a NodeJS project. Instead, use the native built-in.
 
 ````var querystring = require('querystring');
+
 querystring.stringify(obj);````
