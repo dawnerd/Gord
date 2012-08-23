@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dawnerd/Gord.png)](http://travis-ci.org/dawnerd/Gord)
 # GORD
 
 ### The library agnostic object conversion utility thingy.
